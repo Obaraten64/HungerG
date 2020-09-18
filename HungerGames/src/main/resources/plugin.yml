@@ -1,0 +1,8 @@
+name: HungerG
+version: ${project.version}
+main: hungergames.hungerg.HungerG
+description: HungerGames
+commands:
+  btp:
+    description: Tp
+    usage: /btp

@@ -1,0 +1,8 @@
+name: HungerG
+version: 1.0-SNAPSHOT
+main: hungergames.hungerg.HungerG
+description: HungerGames
+commands:
+  btp:
+    description: Tp
+    usage: /btp
